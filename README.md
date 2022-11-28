@@ -1,4 +1,5 @@
 # decimal-separator
+[![Version](https://img.shields.io/npm/v/decimal-separator)](https://www.npmjs.com/package/decimal-separator) [![Size](https://img.shields.io/bundlephobia/min/decimal-separator)](https://www.npmjs.com/package/decimal-separator) [![Downloads](https://img.shields.io/npm/l/decimal-separator)](https://opensource.org/licenses/MIT)
 
 Find the decimal and group separators used in any given locale.
 
